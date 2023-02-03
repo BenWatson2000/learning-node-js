@@ -1,0 +1,23 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "description": "learning node.js packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenWatson2000/learning-node-js.git"
+  },
+  "author": "Ben Thompson-Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenWatson2000/learning-node-js/issues"
+  },
+  "homepage": "https://github.com/BenWatson2000/learning-node-js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
